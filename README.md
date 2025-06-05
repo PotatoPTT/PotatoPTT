@@ -24,5 +24,3 @@ Bootstrap, Maven
 
 **Tools:**  
 MySQL, PostgreSQL, Bash, VS Code, NetBeans, GitHub, Git
-
----
