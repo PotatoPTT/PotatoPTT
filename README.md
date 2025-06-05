@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm PotatoPTT! 🥔
 
-<!--
-**PotatoPTT/PotatoPTT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I'm a passionate **CS student** at UNESP, with hands-on experience in full-stack development for both static and dynamic web projects. My mission is to solve problems with code—leveraging a versatile skill set to tackle diverse technical challenges.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🌱 Currently studying Computer Science at UNESP Rio Claro  
+- 💻 Experienced in full-stack development (static & dynamic sites)  
+- 🏗️ I love applying my knowledge to projects that solve real-world problems  
+- 🧩 Always eager to learn, collaborate, and take on new challenges!
+
+---
+
+## 🛠️ Technical Skills
+
+**Languages:**  
+Java, C, Python, C++, JavaScript, NextJS, CSS, SQL
+
+**Frameworks:**  
+Bootstrap, Maven
+
+**Tools:**  
+MySQL, PostgreSQL, Bash, VS Code, NetBeans, GitHub, Git
+
+---
